@@ -1,0 +1,52 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/description",
+    "value" : "A locker. Store some stuff, why don't you?"
+  },
+  {
+    "op" : "replace",
+    "path" : "/shortdescription",
+    "value" : "Plasmoid Ship Locker"
+  },
+  {
+    "op" : "replace",
+    "path" : "/apexDescription",
+    "value" : "I wonder if there are any secrets inside this locker?"
+  },
+  {
+    "op" : "replace",
+    "path" : "/avianDescription",
+    "value" : "Could there be anything of value within this locker?"
+  },
+  {
+    "op" : "replace",
+    "path" : "/floranDescription",
+    "value" : "Floran ssearch locker for valuabless."
+  },
+  {
+    "op" : "replace",
+    "path" : "/glitchDescription",
+    "value" : "Excited. Any items of interest inside I wonder?"
+  },
+  {
+    "op" : "replace",
+    "path" : "/humanDescription",
+    "value" : "A ship's locker. What else would it be, a barrel?"
+  },
+  {
+    "op" : "replace",
+    "path" : "/hylotlDescription",
+    "value" : "Perhaps something useful is inside this locker."
+  },
+  {
+    "op" : "replace",
+    "path" : "/novakidDescription",
+    "value" : "A locker, for puttin' things in."
+  },
+  {
+    "op": "replace",
+    "path": "plasmoidDescription",
+    "value": "I-can-put-all-sorts-of-things-in-this-locker."
+  }
+]

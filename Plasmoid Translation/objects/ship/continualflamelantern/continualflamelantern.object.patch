@@ -8,5 +8,10 @@
 		"op" : "replace",
 		"path" : "/shortdescription",
 		"value" : "Ornate Lantern (Continual Flame Ver.)"
+	},
+	{
+		"op": "replace",
+		"path": "/plasmoidDescription",
+		"value": "It's-a-Continual-Lantern. It's-not-going-to-flicker-since-it-is-lit-by-magic-and-spells, but-it's-also-not-as-ornate-as-the-ordinary-ones..."
 	}
 ]

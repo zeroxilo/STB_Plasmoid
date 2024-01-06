@@ -1,0 +1,52 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/description",
+    "value" : "Accepts Liquid Erchius as fuel for the ship's FTL dive."
+  },
+  {
+    "op" : "replace",
+    "path" : "/shortdescription",
+    "value" : "FTL Fuel Hatch"
+  },
+  {
+    "op" : "replace",
+    "path" : "/apexDescription",
+    "value" : "The FTL drive fuel hatch. Converts fuel into freedom."
+  },
+  {
+    "op" : "replace",
+    "path" : "/avianDescription",
+    "value" : "The FTL fuel hatch. Let's load it up and take to the stars!"
+  },
+  {
+    "op" : "replace",
+    "path" : "/floranDescription",
+    "value" : "Fuel hatch for FTL drive. Let'ss fill it up~"
+  },
+  {
+    "op" : "replace",
+    "path" : "/glitchDescription",
+    "value" : "Excited. This hatch fuels the FTL drive so that I may visit planets outside of this system."
+  },
+  {
+    "op" : "replace",
+    "path" : "/humanDescription",
+    "value" : "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system."
+  },
+  {
+    "op" : "replace",
+    "path" : "/hylotlDescription",
+    "value" : "The humble FTL fuel hatch. Fuel is the lifeblood of exploration."
+  },
+  {
+    "op" : "replace",
+    "path" : "/novakidDescription",
+    "value" : "FTL fuel goes in here. Yeah."
+  },
+  {
+    "op": "replace",
+    "path": "plasmoidDescription",
+    "value": "Put-some-fuel-in-and-we-can-go-where-ever-we-want-to-go."
+  }
+]

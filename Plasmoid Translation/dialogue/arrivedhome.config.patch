@@ -1,0 +1,36 @@
+[
+	{
+		"op": "replace",
+		"path": "/beacon/plasmoid",
+		"value": {
+			"default": [
+				"Hello...",
+				"What-can-I-do-for-you?",
+				"Can-I-help-you?",
+				"Hi. What-went-wrong?",
+				"Let-me-think..."
+			],
+			"plasmoid": [
+				"Hello...",
+				"What-can-I-do-for-you?",
+				"Can-I-help-you?",
+				"Hi. What-went-wrong?",
+				"Let-me-think..."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/plasmoid",
+		"value": {
+			"default": [
+				"Thank-you. It's-my-appreciation.",
+				"Have-I-ever-said-that-we-plasmoids-likes-to-diliver-presents? This-is-for-you!",
+				"Perhaps-you-can-take-use-of-this.",
+				"I-ate-it-out-in-my-meal. For-you, of-course!",
+				"This-is-today's-present. Thanks!",
+				"This-gift? Not-particularly-for-you... It's-just-I-am-having-too-much-items-with-me."
+			]
+		}
+	}
+]

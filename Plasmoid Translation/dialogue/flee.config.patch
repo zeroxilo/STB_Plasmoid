@@ -1,0 +1,15 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/plasmoid",
+		"value": {
+			"default": [
+				"Not-good...",
+				"Auh..!",
+				"Damn-it...!",
+				"Wa-wait!",
+				"I-have-failed..."
+			]
+		}
+	}
+]

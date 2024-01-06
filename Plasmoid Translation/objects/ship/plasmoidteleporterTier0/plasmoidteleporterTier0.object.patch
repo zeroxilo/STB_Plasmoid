@@ -1,0 +1,52 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/description",
+    "value" : "Trusty teleporter, what would we do without you? Oh you are already gone. Nevermind."
+  },
+  {
+    "op" : "replace",
+    "path" : "/shortdescription",
+    "value" : "Broken Plasmoid Teleporter"
+  },
+  {
+    "op" : "replace",
+    "path" : "/apexDescription",
+    "value" : "The ship's teleporter. I need to power it up."
+  },
+  {
+    "op" : "replace",
+    "path" : "/avianDescription",
+    "value" : "The teleporter. If only this one was powered up."
+  },
+  {
+    "op" : "replace",
+    "path" : "/floranDescription",
+    "value" : "Ship teleporter. Thisss one is dead."
+  },
+  {
+    "op" : "replace",
+    "path" : "/glitchDescription",
+    "value" : "Disappointed. A teleporter without power. I need to power it up."
+  },
+  {
+    "op" : "replace",
+    "path" : "/humanDescription",
+    "value" : "The teleporter. Too bad it isn't powered up."
+  },
+  {
+    "op" : "replace",
+    "path" : "/hylotlDescription",
+    "value" : "This teleporter is currently off."
+  },
+  {
+    "op" : "replace",
+    "path" : "/novakidDescription",
+    "value" : "Ship's teleporter. I need to power her up."
+  },
+  {
+    "op": "replace",
+    "path": "plasmoidDescription",
+    "value": "Magic-teleporter. It's-just-unpowered..."
+  }
+]

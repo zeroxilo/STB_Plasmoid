@@ -43,5 +43,10 @@
 		"op" : "replace",
 		"path" : "/novakidDescription",
 		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+	},
+	{
+		"op": "replace",
+		"path": "plasmoidDescription",
+		"value": "Driver-seat-of-the-Spelljammer. Fly-anywhere-with-it!"
 	}
 ]

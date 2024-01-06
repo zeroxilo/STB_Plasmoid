@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A broken FTL fuel hatch. This won't do."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Broken FTL Fuel Hatch"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Converts fuel into freedom. After a fix."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Let's fix it up and take to the stars!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Let'ss get fixing~"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Excited. Once filled, we may visit another planet."
+  },
+   {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "A fuel hatch. I can fill this up and explore."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Fuel is the lifeblood of exploration. Not that this can be used, yet."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "FTL fuel goes in here, when it's fixed..."
+  },
+  {
+    "op": "replace",
+    "path": "/plasmoidDescription",
+    "value": "Fuel-hatch. Ah, it-is-broken..."
+  }
+]

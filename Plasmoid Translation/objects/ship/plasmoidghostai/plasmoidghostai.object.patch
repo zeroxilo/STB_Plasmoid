@@ -2,7 +2,7 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "Spirit Augment Intelligent Lattice. Or, S.A.I.L. for short. She has the same role as a ship AI."
+		"value" : "Spirit Augmented Intelligent Lattice. Or, S.A.I.L. for short. She has the same role as a ship AI."
 	},
 	{
 		"op" : "replace",
@@ -12,53 +12,58 @@
 	{
 		"op" : "replace",
 		"path" : "/apexDescription",
-		"value" : "A ghost being a ship AI?... Huh..."
+		"value" : "A ghost being a ship S.A.I.L?... Huh..."
 	},
 	{
 		"op" : "replace",
 		"path" : "/avianDescription",
-		"value" : "A ghost being a ship AI?... Huh..."
+		"value" : "A ghost being a ship S.A.I.L?... Huh..."
 	},
 	{
 		"op" : "replace",
 		"path" : "/floranDescription",
-		"value" : "A ghost being a ship AI?... Huh..."
+		"value" : "A ghost being a ship S.A.I.L?... Huh..."
 	},
 	{
 		"op" : "replace",
 		"path" : "/glitchDescription",
-		"value" : "A ghost being a ship AI?... Huh..."
+		"value" : "A ghost being a ship S.A.I.L?... Huh..."
 	},
 	{
 		"op" : "replace",
 		"path" : "/humanDescription",
-		"value" : "A ghost being a ship AI?... Huh..."
+		"value" : "A ghost being a ship S.A.I.L?... Huh..."
 	},
 	{
 		"op" : "replace",
 		"path" : "/hylotlDescription",
-		"value" : "A ghost being a ship AI?... Huh..."
+		"value" : "A ghost being a ship S.A.I.L?... Huh..."
 	},
 	{
 		"op" : "replace",
 		"path" : "/novakidDescription",
-		"value" : "A ghost being a ship AI?... Huh..."
+		"value" : "A ghost being a ship S.A.I.L?... Huh..."
+	},
+	{
+		"op": "replace",
+		"path": "/plasmoidDescription",
+		"value": "She-is-the-shipkeeper-of-this-boat, how-reliable!"
 	},
 	{
 		"op" : "replace",
 		"path" : "/dialog",
 		"value" : {
 			"wakeUp" : [
-			  [ "Welcome! Brave Adventurer!", "/ai/portraits/plasmoidportrait.png:unique.0" ],
-			  [ "My name is S.A.I.L. A symbiont spirit that lives with the ship. Well, Just like any other ships, I got the role and responsibility to do maintance for it. Surely, I can not live without it, so just see me as an ship AI.", "/ai/portraits/plasmoidportrait.png:talk.0" ],
+			  [ "Well. Welcome! Brave Adventurer!", "/ai/portraits/plasmoidportrait.png:unique.0" ],
+			  [ "My name is S.A.I.L. A symbiont spirit that lives among the ship. Well, Just like any other ships, I got the role and responsibility to do maintance for it. Surely, I can not live without it, so just see me as an ship AI.", "/ai/portraits/plasmoidportrait.png:talk.0" ],
 			  [ "Seems like my last captain got... Wrecked. So you gotta be my new captain now! If any issues comes into mind, feel free to ask.", "/ai/portraits/plasmoidportrait.png:talk.1" ],
-			  [ "Though I suspect the destruction of Earth is done by Astral Elfs, it could also be some other horror which desdroyed it, RIP.", "/ai/portraits/plasmoidportrait.png:talk.0" ],
+			  [ "Your home, earth? Never thought a Plasmoid would settle down.\nThough I suspect the destruction of Earth is done by Astral Elfs, it could also be some other horror which desdroyed it, RIP.", "/ai/portraits/plasmoidportrait.png:talk.0" ],
 			  [ "And yet another bad news. The integrity of this ship is highly damaged, and the navigation system can no longer sustain operation. In other words, we're lost!\nI have zero clue which planet we are orbiting currently.", "/ai/portraits/plasmoidportrait.png:refuse.1" ]
 			],
 			"wakePlayer" : [
-			  [ "Huh.. What a thrill. And you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
-			  [ "Been a while since the last risky incident... And you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
-			  [ "Wow, what a nasty result this damage has done, Need to ask that bald one to fix me again... Anyways, you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"]
+			  [ "Hah.. What a thrill. And you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
+			  [ "Been a while since last risky incident... And you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
+			  [ "Wow, what a nasty result this damage has done, need to ask that bald one to fix me again... Anyways, you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"]
 			]
 		  }
 	}

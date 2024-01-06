@@ -1,0 +1,52 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/description",
+    "value" : "Trusty teleporter, what would we do without you?"
+  },
+  {
+    "op" : "replace",
+    "path" : "/shortdescription",
+    "value" : "Plasmoid Teleporter"
+  },
+  {
+    "op" : "replace",
+    "path" : "/apexDescription",
+    "value" : "The ship's teleporter. Teleporting feels like riding a rollercoaster at the speed of light."
+  },
+  {
+    "op" : "replace",
+    "path" : "/avianDescription",
+    "value" : "The teleporter Teleporting feels like flying."
+  },
+  {
+    "op" : "replace",
+    "path" : "/floranDescription",
+    "value" : "Ship teleporter. Floran feel confusssed during teleport."
+  },
+  {
+    "op" : "replace",
+    "path" : "/glitchDescription",
+    "value" : "Smug. A teleporter. I am able to enter a sleep mode during the teleport process."
+  },
+  {
+    "op" : "replace",
+    "path" : "/humanDescription",
+    "value" : "The teleporter Teleporting is such a rush."
+  },
+  {
+    "op" : "replace",
+    "path" : "/hylotlDescription",
+    "value" : "A teleporter. Teleporting feels like diving into the ocean from a mountain top."
+  },
+  {
+    "op" : "replace",
+    "path" : "/novakidDescription",
+    "value" : "Ship's teleporter. Let's take her for a spin!"
+  },
+  {
+    "op": "replace",
+    "path": "plasmoidDescription",
+    "value": "Magic-teleporter. It-is-conveinent-to-do-Teleports, but-I-need-to-reform-my-body-after-Teleportaion."
+  }
+]

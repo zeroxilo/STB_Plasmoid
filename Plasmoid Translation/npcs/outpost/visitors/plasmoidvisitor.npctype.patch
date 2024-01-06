@@ -1,0 +1,18 @@
+[
+	{
+		"op": "replace",
+		"path": "scriptConfig/converse/default/default",
+		"value": [
+			"Hi-there~",
+			"What's-wrong?",
+			"Just-hanging-around~"
+		]
+	},
+	{
+		"op": "replace",
+		"path": "scriptConfig/converse/default/plasmoid",
+		"value": [
+			"Another-Plasmoid? Hi-there~"
+		]
+	}
+]

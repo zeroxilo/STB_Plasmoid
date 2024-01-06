@@ -1,0 +1,48 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/plasmoid",
+		"value": {
+			"default": [
+				"Target-found.",
+				"Threat-identified.",
+				"You-tresspassers.",
+				"This-is-our-territory!",
+				"Incoming-attack!",
+				"Attack-them!",
+				"Get-lost-from-here!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/plasmoid",
+		"value": {
+			"default": [
+				"Target-neutralized.",
+				"Threat-eliminated.",
+				"Target-has-been-supressed.",
+				"Not-worth-a-sweat.",
+				"A-knock-out!",
+				"Ha.",
+				"This-is-what-you-got?",
+				"Suck.",
+				"Go-clean-your-ship-deck.",
+				"Never-come-again.",
+				"No-dead-justice-in-conflict. Better-be-smarter-next-time."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/plasmoid",
+		"value": {
+			"default": [
+				"You-will-regret-this!",
+				"Wait-for-me...",
+				"Sorry... I-failed...",
+				"Damn-it..!"
+			]
+		}
+	}
+]

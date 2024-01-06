@@ -1,0 +1,15 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/plasmoid",
+		"value": {
+			"default": [
+				"What-adventure-is-waiting-ahead?",
+				"What's-today's-mission?",
+				"It's-good-to-stay-here.",
+				"It-will-be-safe-with-me-around!",
+				"Are-we-going-anywhere?"
+			]
+		}
+	}
+]

@@ -8,5 +8,10 @@
 		"op" : "replace",
 		"path" : "/shortdescription",
 		"value" : "Broken Ornate Lantern (Continual Flame Ver.)"
+	},
+	{
+		"op": "replace",
+		"path": "plasmoidDescription",
+		"value": "It's-a-broken-Continual-lantern. It-shines-so-bright-when-it's-not-yet-damaged..."
 	}
 ]

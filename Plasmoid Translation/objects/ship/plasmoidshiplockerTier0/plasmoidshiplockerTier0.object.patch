@@ -1,0 +1,52 @@
+[
+  {
+    "op" : "replace",
+    "path" : "/description",
+    "value" : "A locker. Store some stuff, why don't you?"
+  },
+  {
+    "op" : "replace",
+    "path" : "/shortdescription",
+    "value" : "Plasmoid Ship Locker"
+  },
+  {
+    "op" : "replace",
+    "path" : "/apexDescription",
+    "value" : "The ship's storage system. It's not currently functional."
+  },
+  {
+    "op" : "replace",
+    "path" : "/avianDescription",
+    "value" : "A device that holds many items for safe keeping. It's broken at the moment."
+  },
+  {
+    "op" : "replace",
+    "path" : "/floranDescription",
+    "value" : "Sssstorage. It'sss not working."
+  },
+  {
+    "op" : "replace",
+    "path" : "/glitchDescription",
+    "value" : "Distressed. This ship's storage system is malfunctioning."
+  },
+  {
+    "op" : "replace",
+    "path" : "/humanDescription",
+    "value" : "A storage locker. It doesn't seem to be working."
+  },
+  {
+    "op" : "replace",
+    "path" : "/hylotlDescription",
+    "value" : "An elegant storage solution that isn't so elegant at the moment."
+  },
+  {
+    "op" : "replace",
+    "path" : "/novakidDescription",
+    "value" : "A busted locker. Ain't much use 'til it's fixed."
+  },
+  {
+    "op": "replace",
+    "path": "plasmoidDescription",
+    "value": "A-locker-to-put-things-into, it's-just-broken."
+  }
+]

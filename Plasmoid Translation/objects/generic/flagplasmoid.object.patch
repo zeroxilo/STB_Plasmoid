@@ -43,5 +43,10 @@
 		"op" : "replace",
 		"path" : "/novakidDescription",
 		"value" : "The ship that sails among the sky, the Spelljammer. It ain't common, but I can bookmark it for quick teleportin'."
+	},
+	{
+		"op" : "replace",
+		"path" : "/plasmoidDescription",
+		"value" : "The-flag-of-the-magical-ship, Spelljammer. And-I-happen-to-have-one!"
 	}
 ]
