@@ -26,7 +26,7 @@ This is the **standalone** version, so no requirements!<br>
 There is support for [Racial Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2622273194) though, so If you want's to spice things up a bit, there it is.
 
 And, yeah, That's all about this mod. Nothing else lol. (really light but took me a long time to made, as an outsider using unfamiliar tools)<br>
-Planning on content expantion, aiming at somewhat similar to [Neki](https://steamcommunity.com/sharedfiles/filedetails/?id=2611501999&searchtext=neki) mod. -- SGK2 [^1]
+> Planning on content expantion, aiming at somewhat similar to [Neki](https://steamcommunity.com/sharedfiles/filedetails/?id=2611501999&searchtext=neki) mod. -- SGK2 [^1]
 
 [No you DON'T. You only took 2 days, that is NOT a lot, comparing to those gigantic projects... Not that I have ever done any! :D]: #
 
@@ -40,7 +40,20 @@ As for outfit, ~~FU got branches of nice costumes and armors and I can’t draw 
 - A: since the form of Plasmoid are special (mainly limbs) with new actions I animated for it, plus it doesn't have sensitive body parts, ~~so I gave it a set of FU transparent suits (the hat is in ship locker).~~ Let this race go NUDE! (what no)<br>
 And... Yes, the Plasmoids in D&D are commonly naked (Really! Trust me!).
 
-## Links
-[^1]: [This](https://steamcommunity.com/id/SGK2401/) is the link to the maintainer of standalone version, also now responsible for English translations.
+## Credits and Links
 
-[Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3128247342)’s my English Translation Mod.
+[Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3128247342)’s the English Translation Mod.
+
+---
+
+[Neki](https://steamcommunity.com/sharedfiles/filedetails/?id=2611501999&searchtext=neki) mod. It's content helped a lot at debugging.
+
+[Starbounder](https://starbounder.org/Starbound_Wiki) wiki.
+
+[Modding E-book](https://community.playstarbound.com/resources/unofficial-modding-ebook-2-0.2930/) for it's simple guide.
+
+[Neb](https://steamcommunity.com/sharedfiles/filedetails/?id=2574693146)'s Modding basics guide. Hell, it's lua hooking is indeed useful.
+
+[ZeroXilo](https://steamcommunity.com/id/zero_xilo/), the author of this mod. Technically this mod is the victim, paving my road of starbound modding, sorry. :smirk:
+
+[^1]: [This](https://steamcommunity.com/id/SGK2401/) is the link to the maintainer of standalone version and this page. Also now responsible for English translations.
