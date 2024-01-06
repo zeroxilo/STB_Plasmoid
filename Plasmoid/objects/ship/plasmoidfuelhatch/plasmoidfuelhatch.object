@@ -15,6 +15,7 @@
   "humanDescription" : "船舰的燃料箱。 有给FTL驱动器的燃料就能让我们访问其他星系的星球。",
   "hylotlDescription" : "辛劳的燃料箱。燃料是探索的血液。",
   "novakidDescription" : "FTL燃料往这灌。",
+  "plasmoidDescription" : "把-燃-料-放-进-这-里-就-想-去-哪-去-哪-啦。",
   "inventoryIcon" : "fuelhatchicon.png",
   "orientations" : [
     {

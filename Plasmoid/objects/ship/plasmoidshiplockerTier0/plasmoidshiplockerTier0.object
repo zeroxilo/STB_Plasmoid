@@ -16,6 +16,7 @@
   "humanDescription" : "一个储物柜。看起来用不了。",
   "hylotlDescription" : "一个优雅的存储方式。它现在没被供能。",
   "novakidDescription" : "一个储物柜。修前没法儿用。",
+  "plasmoidDescription" : "可-以-放-东-西-的-柜-子，就-是-坏-掉-了。",
   "inventoryIcon" : "shiplockericonTier0.png",
   "orientations" : [
     {

@@ -13,6 +13,7 @@
   "humanDescription" : "传送器！传送可真快。",
   "hylotlDescription" : "一个传送器。传送就像在山顶跳进大海。",
   "novakidDescription" : "船舰传送器。走吧，逛逛。",
+  "plasmoidDescription" : "魔-法-船-传-送-器。传-送-很-方-便，不-过-得-在-传-送-之-后-重-塑-形-态。",
   "category" : "light",
   "lightColor" : [99, 132, 153],
   "flickerDistance" : 0.2,
