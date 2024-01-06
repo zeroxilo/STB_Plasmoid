@@ -19,11 +19,12 @@ Plasmoids and Plasmoid-girls, supports variety of body color, and Plasmoid-girl 
 ~~The mod is based on Frankin's Universe, and has used plenty FU related content, so you need to subscribe to FU first.~~<br>
 ~~Meanwhile, it also has built in compatibility with FU BYOs ship, and contains race specific tech and racial traits just like other FU races.~~<br>
 This is the **standalone** version, so no requirements!<br>
-There is support for [Racial Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2622273194) though, so If you want's to spice things up a bit, here it is.
+There is support for [Racial Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2622273194) though, so If you want's to spice things up a bit, there it is.
 
-And, yeah, That's all about this race. Nothing else lol. (really light but took me a long time to made, as an outsider using unfamiliar tools)
+And, yeah, That's all about this mod. Nothing else lol. (really light but took me a long time to made, as an outsider using unfamiliar tools)<br>
+Planning on content expantion, aiming at somewhat similar to [Neki](https://steamcommunity.com/sharedfiles/filedetails/?id=2611501999&searchtext=neki) mod. -- SGK2 [^1]
 
-[No you DON'T. You only took 2 days, that is NOT a lot.]: #
+[No you DON'T. You only took 2 days, that is NOT a lot, comparing to those gigantic projects... Not that I have ever done any! :D]: #
 
 ### Q&A
 
@@ -36,7 +37,6 @@ As for outfit, ~~FU got branches of nice costumes and armors and I can’t draw 
 And... Yes, the Plasmoids in D&D are commonly naked (Really! Trust me!).
 
 ## Links
+[^1]: [This](https://steamcommunity.com/id/SGK2401/) is the link to the maintainer of standalone version, also now responsible for English translations.
 
 [Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3128247342)’s my English Translation Mod.
-
-[This](https://steamcommunity.com/id/SGK2401/) is the link to the maintainer of standalone version, also now responsible for English translations.
