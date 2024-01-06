@@ -1,0 +1,55 @@
+{
+  "objectName" : "plasmoidghostai",
+  "colonyTags" : ["plasmoid"],
+  "printable" : false,
+  "rarity" : "Common",
+  "interactAction" : "OpenAiInterface",
+  "category" : "decorative",
+  "lightColor" : [61, 88, 102],
+  "lightPosition" : [-1, 0],
+  "description" : "魂灵-活着-智能-框架。她简称为塞奥(S.A.I.L)，与舰载AI有着异曲同工的用途。",
+  "shortdescription" : "S.A.I.L",
+  "race" : "plasmoid",
+  "apexDescription" : "一个幽灵充当的舰载AI？好吧。",
+  "avianDescription" : "一个幽灵充当的舰载AI？好吧。",
+  "floranDescription" : "一个幽灵充当的舰载AI？好吧。",
+  "glitchDescription" : "一个幽灵充当的舰载AI？好吧。",
+  "humanDescription" : "一个幽灵充当的舰载AI？好吧。",
+  "hylotlDescription" : "一个幽灵充当的舰载AI？好吧。",
+  "novakidDescription" : "一个幽灵充当的舰载AI？好吧。",
+  "inventoryIcon" : "plasmoidghostaiicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "plasmoidghostai.png:<color>.<frame>", "fullbright" : true } ],
+      "imagePosition" : [-8, 0],
+      "frames" : 24,
+      "animationCycle" : 6.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  "offeredQuests" : [ "gaterepair" ],
+  "animation" : "/objects/ship/techstation.animation",
+  "scripts" : [
+    "/objects/spawner/techstation.lua"
+  ],
+  "scriptDelta" : 20,
+  "shipPetType" : "plasmoidpet",
+  "spawnOffset" : [2, -3],
+  "chatPortrait" : "/ai/portraits/plasmoidportrait.png:yell.1",
+  "dialog" : {
+    "wakeUp" : [
+      [ "欢迎，勇敢的冒险者。", "/ai/portraits/plasmoidportrait.png:unique.0" ],
+      [ "我的名字是塞奥（S.A.I.L），一个寄居在这艘船上的魂灵。当然，就像其他船一样，我有着掌管这艘船的能力，且与它共生——就像那个什么...AI一样。", "/ai/portraits/plasmoidportrait.png:talk.0" ],
+      [ "虽然“我”的前任船长貌似...嘛，反正你现在就是我的新船长了。如果你对航行或是别的什么有问题可以来询问我。", "/ai/portraits/plasmoidportrait.png:talk.1" ],
+      [ "虽然我怀疑是星界精灵搞的鬼，但也有可能是别的东西...毁灭了地球。节哀吧...", "/ai/portraits/plasmoidportrait.png:talk.0" ],
+      [ "然后，一个很不幸的消息...这艘船在逃出过程中受到了严重的损伤，我的导航系统坏了...这意味着...我们迷航了...现在所在的星球是何处完全是未知的", "/ai/portraits/plasmoidportrait.png:refuse.1" ]
+    ],
+    "wakePlayer" : [
+      [ "呼...这可真是惊险...你是...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
+      [ "好久没遇到这么冒险的事了...你是...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
+      [ "损坏如此严重...下次得喊那个老头子给我修修了...对了，你是...?", "/ai/portraits/plasmoidportrait.png:unique.1"]
+    ]
+  },
+  "uniqueId" : "techstation"
+}

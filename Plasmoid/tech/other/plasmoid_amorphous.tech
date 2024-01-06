@@ -1,0 +1,51 @@
+{
+  "name" : "plasmoid_amorphous",
+  "type" : "head",
+
+  "scripts" : ["plasmoid_amorphous.lua"],
+  "animator" : "plasmoid_amorphous.animation",
+
+  "description" : "无定型 ^green;[F]^reset;! 令你穿过1格高的空间!",
+  "shortDescription" : "无定型",
+  "rarity" : "Uncommon",
+  "icon" : "/tech/plasmoid_amorphous.png",
+
+  "chipCost" : 0,
+
+  "animationParts" : {
+    "ballGlow" : "plasmoid_amorphousglow.png",
+    "ball" : "plasmoid_amorphous.png"
+  },
+
+  "transformedMovementParameters" : {
+    "collisionPoly" : [ [-0.45, -0.25], [-0.25, -0.45], [0.25, -0.45], [0.45, -0.25], [0.45, 0.25], [0.25, 0.45], [-0.25, 0.45], [-0.45, 0.25] ],
+    "runModifier" : 1,
+    "groundForce" : 200.0,
+    "normalGroundFriction" : 10.0,
+    "ambulatingGroundFriction" : 4.8,
+    "slopeSlidingFactor" : 0.0,
+
+    "airJumpProfile" : {
+      "jumpSpeed" : 25,
+      "jumpControlForce" : 80.0,
+      "jumpInitialPercentage" : 1.0,
+      "jumpHoldTime" : 0.1
+    },
+
+    "liquidJumpProfile" : {
+      "jumpSpeed" : 53.0,
+      "jumpControlForce" : 155.5,
+      "liquidImpedance" : 0,
+
+      "multiJump" : false,
+      "autoJump" : false
+    }
+  },
+
+  "ballSpeed" : 8,
+
+  "energyCost" : 0,
+
+  "ballRadius" : 0.5,
+  "ballFrames" : 8
+}
