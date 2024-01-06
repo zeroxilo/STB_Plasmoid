@@ -1,16 +1,21 @@
 {
   "objectName" : "flagplasmoid",
-  "colonyTags" : ["plasmoid"],
   "printable" : false,
   "rarity" : "Common",
+  "price" : 70,
   "objectType" : "teleporter",
   "category" : "teleportMarker",
-  "price" : 70,
-  "radioMessagesOnPickup" : [ "pickupflag" ],
-  
+  "tooltipKind": "plasmoidbase",
+  "colonyTags" : ["plasmoid"],
+  "race" : "plasmoid",
+
+  "radioMessagesOnPickup" : [ "pickupflagplasmoid" ],
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+
   "description" : "魔法船的旗帜。用^green;[E]^white;以标记一个传送地点。",
   "shortdescription" : "魔法船旗帜",
-  "race" : "plasmoid",
+
   "apexDescription" : "旗帜上画的是魔法船，一种在天空翱翔的魔法之船。",
   "avianDescription" : "少见，一根魔法船的旗帜。",
   "floranDescription" : "一一一... 一根旗帜。魔法船，不是机械。",
@@ -19,8 +24,7 @@
   "hylotlDescription" : "在大海中航行的载具能在宇宙中飞行么？真是奇怪。但这根旗帜就标明了他们的足迹。",
   "novakidDescription" : "翱翔天空的载具，魔法船。这面旗帜说明它的船员来过这里。",
   "plasmoidDescription" : "这-是-魔-法-船-的-旗-子，我-就-有-一-艘-呢。",
-  "interactAction" : "OpenTeleportDialog",
-  "interactData" : "/interface/warping/destinationonly.config",
+
   "inventoryIcon" : "flagplasmoidicon.png",
   "orientations" : [
     {

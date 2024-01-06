@@ -2,7 +2,7 @@
   "kind" : "plasmoid",
     "charCreationTooltip" : {
     "title" : "plasmoid",
-    "subTitle" : "PM",
+    "subTitle" : "Slimy person.",
     "description" : "流浆体，一种游历于星空之中的奇怪种族，它们似乎是一团无定型的流体，却又有着人形一样的外观。
 
  ^orange;食性^reset;：全食性
@@ -19,7 +19,7 @@
   },
   "nameGen" : [ "/species/plasmoidnamegen.config:names", "/species/plasmoidnamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/plasmoidhurt_male1.ogg", "/sfx/humanoid/plasmoidhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "眼睛颜色", "发型/拟态", "-", "-", "流体染色", "头发颜色", "-", "-", "流浆体", "个性" ],
+  "charGenTextLabels" : [ "眼睛颜色", "发型/拟态", "-", "-", "流体染色", "头发颜色", "-", "-", "流浆体", "性格" ],
   "skull" : "/humanoid/plasmoid/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=99d1ffFF?replace=31a6ffFF=99d1ffFF",
   "defaultBlueprints" : {
@@ -37,8 +37,8 @@
       "image" : "/interface/title/plasmoidmaleico.png",
       "characterImage" : "/interface/title/plasmoidmale.png",
       "hair" : [ "none" ],
-      "shirt" : [ "hiderchest" ],
-      "pants" : [ "hiderlegs" ],
+      "shirt" : [ "none" ],
+      "pants" : [ "none" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -49,8 +49,8 @@
       "image" : "/interface/title/plasmoidfemico.png",
       "characterImage" : "/interface/title/plasmoidfemale.png",
       "hair" : [ "star1", "star2", "star3", "star4", "star5", "star6", "star7", "star8", "star9", "star10", "star11", "star12", "star13", "star14", "star15", "star16", "star17", "star18", "star19", "star20", "star21", "star22", "star23" ],
-      "shirt" : [ "hiderchest" ],
-      "pants" : [ "hiderlegs" ],
+      "shirt" : [ "none" ],
+      "pants" : [ "none" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",

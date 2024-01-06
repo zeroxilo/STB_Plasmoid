@@ -35,21 +35,22 @@
     "/objects/spawner/techstation.lua"
   ],
   "scriptDelta" : 20,
-  "shipPetType" : "plasmoidpet",
-  "spawnOffset" : [2, -3],
-  "chatPortrait" : "/ai/portraits/plasmoidportrait.png:yell.1",
+  "shipPetType" : "petcat",
+  "spawnOffset" : [4, 0],
+  "chatPortrait" : "/ai/portraits/plasmoidportrait.png:talk.1",
   "dialog" : {
     "wakeUp" : [
-      [ "欢迎，勇敢的冒险者。", "/ai/portraits/plasmoidportrait.png:unique.0" ],
-      [ "我的名字是塞奥（S.A.I.L），一个寄居在这艘船上的魂灵。当然，就像其他船一样，我有着掌管这艘船的能力，且与它共生——就像那个什么...AI一样。", "/ai/portraits/plasmoidportrait.png:talk.0" ],
-      [ "虽然“我”的前任船长貌似...嘛，反正你现在就是我的新船长了。如果你对航行或是别的什么有问题可以来询问我。", "/ai/portraits/plasmoidportrait.png:talk.1" ],
-      [ "虽然我怀疑是星界精灵搞的鬼，但也有可能是别的东西...毁灭了地球。节哀吧...", "/ai/portraits/plasmoidportrait.png:talk.0" ],
-      [ "然后，一个很不幸的消息...这艘船在逃出过程中受到了严重的损伤，我的导航系统坏了...这意味着...我们迷航了...现在所在的星球是何处完全是未知的", "/ai/portraits/plasmoidportrait.png:refuse.1" ]
+      [ "总之.. 欢迎，勇敢的冒险者..！", "/ai/portraits/plasmoidportrait.png:talk.1" ],
+      [ "自我介绍？哦对对。咳咳。", "/ai/portraits/plasmoidportrait.png:refuse.2"],
+      [ "我的名字是塞奥，一个寄居在这艘船上的魂灵。当然，就像其他船一样，我有着掌管这艘船的能力，且与它共生——就像那个什么... S.A.I.L一样。", "/ai/portraits/plasmoidportrait.png:talk.0" ],
+      [ "虽然我的前任船长貌似... 嘛，反正现在你就是我的新任船长了。如果你对航行或是别的什么有疑问，欢迎来询问我。", "/ai/portraits/plasmoidportrait.png:yell.1" ],
+      [ "你的家？从没想过星流体也会安家啊...\n啊，虽然我怀疑是星界精灵搞的鬼，但也有可能是别的东西... 毁灭了地球。安息。", "/ai/portraits/plasmoidportrait.png:unique.7" ],
+      [ "然后，还有一个很不幸的消息... 这艘船在紧急跃迁的过程中受到了严重的损伤，我的导航系统坏了。这意味着... 我们迷航了... 甚至连我们环绕的是什么星球都无从得知。", "/ai/portraits/plasmoidportrait.png:refuse.4" ]
     ],
     "wakePlayer" : [
-      [ "呼...这可真是惊险...你是...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
-      [ "好久没遇到这么冒险的事了...你是...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
-      [ "损坏如此严重...下次得喊那个老头子给我修修了...对了，你是...?", "/ai/portraits/plasmoidportrait.png:unique.1"]
+      [ "呼... 这可真是惊险... 你是...？", "/ai/portraits/plasmoidportrait.png:unique.0"],
+      [ "好久没遇到这么冒险的事了... 你是...？", "/ai/portraits/plasmoidportrait.png:unique.0"],
+      [ "损坏如此严重... 下次得喊那个秃头的给我修修了... 对了，你是...？", "/ai/portraits/plasmoidportrait.png:unique.0"]
     ]
   },
   "uniqueId" : "techstation"

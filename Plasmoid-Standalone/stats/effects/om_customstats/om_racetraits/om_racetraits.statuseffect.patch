@@ -1,0 +1,38 @@
+[
+	{
+		"op": "add", "path": "/effectConfig/0/plasmoid",
+		"value": {
+			"stats": [
+				{"stat": "maxHealth","effectiveMultiplier": 0.85},
+				{"stat": "maxEnergy","effectiveMultiplier": 1.25},
+				{"stat": "energyRegenPercentageRate","effectiveMultiplier": 1.5},
+				{"stat": "powerMultiplier","effectiveMultiplier": 1.0},
+				{"stat": "protection","effectiveMultiplier": 1.0},
+				{"stat": "fireResistance","amount": 0.2},
+				{"stat": "fireStatusImmunity","amount": 1.0},
+				{"stat": "electricResistance","amount": 0.4},
+				{"stat": "electricStatusImmunity","amount": 0.0},
+				{"stat": "poisonResistance","amount": -0.2},
+				{"stat": "poisonStatusImmunity","amount": 0.0},
+				{"stat": "iceResistance","amount": 0.0},
+				{"stat": "iceStatusImmunity","amount": 0.0},
+				{"stat": "physicalResistance","amount": 0.2},
+				{"stat": "maxBreath","amount": 1000.0},
+				{"stat": "foodDelta","baseMultiplier": 0.5},
+				{"stat": "fallDamageMultiplier", "effectiveMultiplier": 0.5},
+				{"stat": "slimeImmunity", "amount": 1.0},
+				{"stat": "wetImmunity", "amount": 1.0},
+				{"stat": "om_rtfoodpoisonImmunity", "amount": 1.0}
+			],
+			"benefits": [
+				"headlamp",
+				"regeneration1",
+				"om_rtswimboost"
+			],
+			"controlModifiers": {
+				"speedModifier": 0.95,
+				"airJumpModifier": 0.95
+			}
+		}
+	}
+]

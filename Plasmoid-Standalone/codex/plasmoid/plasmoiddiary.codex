@@ -1,5 +1,6 @@
 {
 	"id" : "plasmoiddiary",
+	"species": "plasmoid",
 	"title" : "生存者日记",
 	"description" : "迷失魂灵的日记。",
 	"icon" : "plasmoidcover.png",

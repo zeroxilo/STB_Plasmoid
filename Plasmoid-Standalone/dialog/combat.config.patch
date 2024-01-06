@@ -1,6 +1,19 @@
 [
 	{
 		"op": "add",
+		"path": "/reattack/plasmoid",
+		"value": {
+			"default": [
+				"继-续-清-除。",
+				"再-次-发-现-目-标！",
+				"还-敢-回-来？",
+				"你-好，再见。",
+				"再-次-进-攻！"
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/attack/plasmoid",
 		"value": {
 			"default": [
@@ -38,10 +51,47 @@
 		"path": "/lostTarget/plasmoid",
 		"value": {
 			"default": [
-				"你-会-后-悔-的!",
+				"你-会-后-悔-的！",
 				"等-着......",
 				"抱-歉... 我-跟-丢-了...",
 				"该-死..."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/outOfSight/plasmoid",
+		"value": {
+			"default": [
+				"目-标-消-失！",
+				"丢-失-目-标！",
+				"..去-哪-了？"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cantReach/plasmoid",
+		"value": {
+			"default": [
+				"它-挑-衅-我？！",
+				"追-逐-目-标。",
+				"你-大-可-再-靠-近-点。",
+				"居-然-敢-跑！",
+				"束-手-就-擒！"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cheerOn/plasmoid",
+		"value": {
+			"default": [
+				"友-方-歼-灭。",
+				"留-些-给-我！",
+				"谢-谢。",
+				"干-得-好。",
+				"消-灭-它！"
 			]
 		}
 	}
