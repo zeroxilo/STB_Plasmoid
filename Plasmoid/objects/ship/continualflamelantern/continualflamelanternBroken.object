@@ -5,8 +5,8 @@
   "category" : "light",
   "price" : 0,
 
-  "description" : "一种由魔法与法术驱动的华丽灯笼——但是坏了...那它还有什么用？",
-  "shortdescription" : "华丽灯笼（永燃明焰版，但是坏了）",
+  "description" : "一种由魔法与法术驱动的华丽灯笼 —— 但是坏了... 那它还有什么用？",
+  "shortdescription" : "破损的华丽灯笼（永燃明焰版）",
   "race" : "plasmoid",
 
   "inventoryIcon" : "continualflamelanternBrokenicon.png",

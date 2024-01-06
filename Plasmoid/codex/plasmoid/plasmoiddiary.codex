@@ -1,10 +1,10 @@
 {
 	"id" : "plasmoiddiary",
-	"title" : "Survivors Log",
-	"description" : "The diary of a lost soul.",
+	"title" : "生存者日记",
+	"description" : "迷失魂灵的日记。",
 	"icon" : "plasmoidcover.png",
 	"contentPages" : [
-    "Lore here."
+    "背景故事往这丢~"
 	],
 		"itemConfig" : {
 		"rarity" : "common",

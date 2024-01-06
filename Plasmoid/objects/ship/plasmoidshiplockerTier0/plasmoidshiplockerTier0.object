@@ -5,18 +5,18 @@
   "rarity" : "Common",
   
   "category" : "decorative",
-  "description" : "A locker. Store some stuff, why don't you?",
-  "shortdescription" : "Ship Locker",
+  "description" : "储物柜。存点东西，为什么不呢？",
+  "shortdescription" : "船舰储物柜",
   "race" : "plasmoid",
   "lightColor" : [61, 88, 102],
-  "apexDescription" : "The ship's storage system. It's not currently functional.",
-  "avianDescription" : "A device that holds many items for safe keeping. It's broken at the moment.",
-  "floranDescription" : "Sssstorage. It'sss not working.",
-  "glitchDescription" : "Distressed. This ship's storage system is malfunctioning.",
-  "humanDescription" : "A storage locker. It doesn't seem to be working.",
-  "hylotlDescription" : "An elegant storage solution. It's not currently powered.",
-  "novakidDescription" : "A locker. Ain't much use 'til it's fixed.",
-  
+  "apexDescription" : "船舰的存储系统。现在不工作。",
+  "avianDescription" : "安全地存储许多物品的装置。它现在不能用。",
+  "floranDescription" : "存储储。它用不了。",
+  "glitchDescription" : "苦恼。这个船舰存储系统出错。",
+  "humanDescription" : "一个储物柜。看起来用不了。",
+  "hylotlDescription" : "一个优雅的存储方式。它现在没被供能。",
+  "novakidDescription" : "一个储物柜。修前没法儿用。",
+  "plasmoidDescription" : "可-以-放-东-西-的-柜-子，就-是-坏-掉-了。",
   "inventoryIcon" : "shiplockericonTier0.png",
   "orientations" : [
     {

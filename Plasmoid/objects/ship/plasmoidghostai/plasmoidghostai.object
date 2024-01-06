@@ -7,7 +7,7 @@
   "category" : "decorative",
   "lightColor" : [61, 88, 102],
   "lightPosition" : [-1, 0],
-  "description" : "魂灵-活着-智能-框架。她简称为塞奥(S.A.I.L)，与舰载AI有着异曲同工的用途。",
+  "description" : "魂灵-增强-智能-框架。她简称为塞奥(S.A.I.L)，与舰载AI有着异曲同工的用途。",
   "shortdescription" : "S.A.I.L",
   "race" : "plasmoid",
   "apexDescription" : "一个幽灵充当的舰载AI？好吧。",
@@ -17,6 +17,7 @@
   "humanDescription" : "一个幽灵充当的舰载AI？好吧。",
   "hylotlDescription" : "一个幽灵充当的舰载AI？好吧。",
   "novakidDescription" : "一个幽灵充当的舰载AI？好吧。",
+  "palsmoidDescription" : "她-是-这-艘-船-的-管-家，真-可-靠。",
   "inventoryIcon" : "plasmoidghostaiicon.png",
   "orientations" : [
     {

@@ -11,12 +11,12 @@
 			"converse" : {
 				"default" : {
 					"default" : [
-						"How are you?",
-						"What's up",
-						"Just looking."
+						"你-好-呀。",
+						"怎-么-了？",
+						"只-是-在-逛-逛。"
 					],
 					"plasmoid" : [
-						"Just looking, Thank you."
+						"是-同-族？你-好-呀。"
 					]
 				}
 			}

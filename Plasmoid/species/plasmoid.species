@@ -19,7 +19,7 @@
   },
   "nameGen" : [ "/species/plasmoidnamegen.config:names", "/species/plasmoidnamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/plasmoidhurt_male1.ogg", "/sfx/humanoid/plasmoidhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "眼睛颜色", "发型/拟态", "-", "-", "皮肤染色", "头发颜色", "-", "-", "流浆体", "个性" ],
+  "charGenTextLabels" : [ "眼睛颜色", "发型/拟态", "-", "-", "流体颜色", "头发颜色", "-", "-", "流浆体类型", "性格" ],
   "skull" : "/humanoid/plasmoid/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=99d1ffFF?replace=31a6ffFF=99d1ffFF",
   "defaultBlueprints" : {
