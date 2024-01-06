@@ -14,7 +14,7 @@ Plasmoids and Plasmoid-girls, supports variety of body color, and Plasmoid-girl 
 
 - A ship of Plasmoid, which is called *Spelljammer Bombard*. Featuring open
    design, and all ship upgrades from T0 to T8.
-- An animated Ship S.A.I.L. Which is a really a spirit of Spelljammer (It's in the book, so just grabbed it). Since it's an actual spirit, so I drew it.
+- An animated Ship S.A.I.L. Which is a really a spirit of Spelljammer (It's in the book). Since it's an actual spirit, so I drew it.
 
 ~~The mod is based on Frankin's Universe, and has used plenty FU related content, so you need to subscribe to FU first.~~<br>
 ~~Meanwhile, it also has built in compatibility with FU BYOs ship, and contains race specific tech and racial traits just like other FU races.~~<br>
