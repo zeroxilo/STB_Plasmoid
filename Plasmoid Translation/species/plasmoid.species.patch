@@ -7,6 +7,6 @@
 	{
 		"op" : "replace",
 		"path" : "/charGenTextLabels",
-		"value" : [ "Eye Color", "Hair/Disguise Type", "-", "-", "Fluid", "Hair Color", "-", "-", "Plasmoid", "Personality" ]
+		"value" : [ "Eye Color", "Hair/Disguise Type", "-", "-", "Fluid Dye Color", "Hair/Disguise Color", "-", "-", "Plasmoid", "Personality" ]
 	}
 ]
