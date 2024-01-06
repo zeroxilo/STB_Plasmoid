@@ -1,0 +1,12 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "Amorphous ^green;[F]^reset;! Makes you pass througth 1-block-height spaces!"
+	},
+	{
+		"op" : "replace",
+		"path" : "/shortDescription",
+		"value" : "Amorphous"
+	}
+]

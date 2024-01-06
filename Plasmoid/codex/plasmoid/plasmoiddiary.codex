@@ -1,0 +1,13 @@
+{
+	"id" : "plasmoiddiary",
+	"title" : "Survivors Log",
+	"description" : "The diary of a lost soul.",
+	"icon" : "plasmoidcover.png",
+	"contentPages" : [
+    "Lore here."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

@@ -1,0 +1,47 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "Spelljammer's Helm. Sit on it, and drive your jammer."
+	},
+	{
+		"op" : "replace",
+		"path" : "/shortdescription",
+		"value" : "Spelljammer's Helm"
+	},
+	{
+		"op" : "replace",
+		"path" : "/apexDescription",
+		"value" : "Strange chair, looks like some magic item. Sit on it can drive the jammer...Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/avianDescription",
+		"value" : "Strange chair, looks like some magic item. Sit on it can drive the jammer...Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/floranDescription",
+		"value" : "Strange chair, looks like some magic item. Sit on it can drive the jammer...Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/glitchDescription",
+		"value" : "Strange chair, looks like some magic item. Sit on it can drive the jammer...Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/humanDescription",
+		"value" : "Strange chair, looks like some magic item. Sit on it can drive the jammer...Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/hylotlDescription",
+		"value" : "Strange chair, looks like some magic item. Sit on it can drive the jammer...Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/novakidDescription",
+		"value" : "Strange chair, looks like some magic item. Sit on it can drive the jammer...Right?"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/plasmoid",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/plasmoid",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

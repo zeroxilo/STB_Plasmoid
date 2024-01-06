@@ -1,0 +1,3 @@
+[
+{ "op" : "add", "path" : "/defaultCodexes/plasmoid", "value" : [ "protectorate1", "protectorate2", "plasmoiddiary" ] }
+]

@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 12
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "plasmoidT8.png",
+      "position" : [0, 0],
+      "fullbright" : true
+    },
+    {
+      "image" : "plasmoidT8lit.png",
+      "position" : [0, 0]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "plasmoidT8blocks.png"
+}

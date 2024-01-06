@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/plasmoid",
+		"value" : {
+			"aiFrames" : "plasmoidAI.png",
+			"portraitFrames" : "portraits/plasmoidportrait.png",
+			"staticFrames" : "staticplasmoid.png"	
+		}
+	}
+]

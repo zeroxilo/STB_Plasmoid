@@ -1,0 +1,65 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "Spirit Aliving Intelligence Lattice, She called herself S.A.I.L. for short. She got same role of Ship AI."
+	},
+	{
+		"op" : "replace",
+		"path" : "/shortdescription",
+		"value" : "S.A.I.L"
+	},
+	{
+		"op" : "replace",
+		"path" : "/apexDescription",
+		"value" : "A Ghost got her role to be like an ship AI?... Well..."
+	},
+	{
+		"op" : "replace",
+		"path" : "/avianDescription",
+		"value" : "A Ghost got her role to be like an ship AI?... Well..."
+	},
+	{
+		"op" : "replace",
+		"path" : "/floranDescription",
+		"value" : "A Ghost got her role to be like an ship AI?... Well..."
+	},
+	{
+		"op" : "replace",
+		"path" : "/glitchDescription",
+		"value" : "A Ghost got her role to be like an ship AI?... Well..."
+	},
+	{
+		"op" : "replace",
+		"path" : "/humanDescription",
+		"value" : "A Ghost got her role to be like an ship AI?... Well..."
+	},
+	{
+		"op" : "replace",
+		"path" : "/hylotlDescription",
+		"value" : "A Ghost got her role to be like an ship AI?... Well..."
+	},
+	{
+		"op" : "replace",
+		"path" : "/novakidDescription",
+		"value" : "A Ghost got her role to be like an ship AI?... Well..."
+	},
+	{
+		"op" : "replace",
+		"path" : "/dialog",
+		"value" : {
+			"wakeUp" : [
+			  [ "Welcome! Bravely Adventurer", "/ai/portraits/plasmoidportrait.png:unique.0" ],
+			  [ "My name is S.A.I.L, a spirit that living in the ship. Well, Just like other ships, I had roles and power to run this ship. And I cannot live without ship so I'm just like a...ship AI.", "/ai/portraits/plasmoidportrait.png:talk.0" ],
+			  [ "Well,My last captain got...uh, you know. So you gonna be my new captain now. If you got problems of navigation or something else,ask me for sure.", "/ai/portraits/plasmoidportrait.png:talk.1" ],
+			  [ "Althrough I thought it must be Astral Elf's task, but it could be something else... that broken your Earth. R.I.P...", "/ai/portraits/plasmoidportrait.png:talk.0" ],
+			  [ "And, another bad news here... Me, The Ship, got highly broken by the flee, and the navigation system is down... That means... We're lost. I have no idea what planet under my hull.", "/ai/portraits/plasmoidportrait.png:refuse.1" ]
+			],
+			"wakePlayer" : [
+			  [ "Huh.. What a thrill. And you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
+			  [ "Long time no risk like that one...And you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
+			  [ "Wow, It's so badly damaged... Need ask the baldhead to fix me... Anyway, you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"]
+			]
+		  }
+	}
+]

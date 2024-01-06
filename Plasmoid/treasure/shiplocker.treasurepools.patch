@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/plasmoidStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"},
+        {"item" : [ "hiderhead", 1 ]}
+      ]
+    }]]
+  }
+]

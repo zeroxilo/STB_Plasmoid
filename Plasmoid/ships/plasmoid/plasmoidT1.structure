@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "plasmoidT1.png",
+      "position" : [0, 0],
+      "fullbright" : true
+    },
+    {
+      "image" : "plasmoidT1lit.png",
+      "position" : [0, 0]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "plasmoidT1blocks.png"
+}

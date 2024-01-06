@@ -1,0 +1,13 @@
+{
+  "author" : "ZeroXilo",
+  "description" : "Yeah That's it.\nThis Mod is Plasmoid Mod's Translations, you need install Plasmoid mod by first:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3127674279",
+  "friendlyName" : "Plasmoid, English Translation",
+  "includes" : ["Plasmoid"],
+  "link" : "steam://url/CommunityFilePage/3128247342",
+  "name" : "PlasmoidEN",
+  "path" : ".",
+  "priority" : 2,
+  "steamContentId" : "3128247342",
+  "tags" : "Miscellaneous",
+  "version" : "1"
+}
