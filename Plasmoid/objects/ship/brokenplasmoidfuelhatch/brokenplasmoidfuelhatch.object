@@ -15,7 +15,6 @@
   "humanDescription" : "燃料箱。灌满就能探索。",
   "hylotlDescription" : "燃料是探索的血液。",
   "novakidDescription" : "修好之后FTL燃料往这灌...",
-  "plasmoidDescription" : "燃-料-箱。啊，坏-了-的。",
   "inventoryIcon" : "fuelhatchicon.png",
   "orientations" : [
     {

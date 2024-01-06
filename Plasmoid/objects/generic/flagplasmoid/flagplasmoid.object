@@ -18,7 +18,6 @@
   "humanDescription" : "一根旗帜，上面画着魔法船的标志，这意味着有驾驶魔法船的人曾来过这个地方。",
   "hylotlDescription" : "在大海中航行的载具能在宇宙中飞行么？真是奇怪。但这根旗帜就标明了他们的足迹。",
   "novakidDescription" : "翱翔天空的载具，魔法船。这面旗帜说明它的船员来过这里。",
-  "plasmoidDescription" : "这-是-魔-法-船-的-旗-子，我-就-有-一-艘-呢。",
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/destinationonly.config",
   "inventoryIcon" : "flagplasmoidicon.png",

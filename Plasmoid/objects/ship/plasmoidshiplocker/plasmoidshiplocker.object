@@ -17,7 +17,6 @@
   "humanDescription" : "一个船舰储物柜。",
   "hylotlDescription" : "或许里面有有用的东西。",
   "novakidDescription" : "储物柜，放些好东西。",
-  "plasmoidDescription" : "可-以-把-各-种-东-西-往-柜-子-里-放-呢。",
   "inventoryIcon" : "shiplockericon.png",
   "orientations" : [
     {

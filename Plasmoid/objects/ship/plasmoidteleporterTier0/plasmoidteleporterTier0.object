@@ -15,7 +15,6 @@
   "humanDescription" : "传送器。没被供能真是太可惜了。",
   "hylotlDescription" : "这个传送器关了。",
   "novakidDescription" : "船舰的传送器。我得给她冲个能。",
-  "plasmoidDescription" : "魔-法-船-传-送-器。就-是-现-在-没-能-源...",
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
   "sitOrientation" : "lay",
