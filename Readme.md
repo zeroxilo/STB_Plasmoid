@@ -2,6 +2,10 @@
 
 [This](https://steamcommunity.com/sharedfiles/filedetails/?id=3127674279 "Plasmoid Workshop item") is the link to Steam workshop page. Refined description down below.
 
+Github branches: <br>
+[Original version](https://github.com/zeroxilo/STB_Plasmoid/tree/Original) (requires FU) here.<br>
+[English Translation mod](https://github.com/zeroxilo/STB_Plasmoid/tree/EN-Translation) here.
+
 ## Overview
 
 A Race from the Dungeons & Dragons that is called Plasmoid! It's also a **Cuter Version** of it!
