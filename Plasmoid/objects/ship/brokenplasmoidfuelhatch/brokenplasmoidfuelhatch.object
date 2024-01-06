@@ -4,8 +4,8 @@
   "printable" : false,
   "rarity" : "Common",
   
-  "description" : "A broken FTL fuel hatch. This won't do",
-  "shortdescription" : "Broken FTL Fuel Hatch",
+  "description" : "坏掉的的FTL燃料箱。这可不行。",
+  "shortdescription" : "损坏的FTL燃料箱",
   "race" : "plasmoid",
   "lightColor" : [46, 66, 77],
   "apexDescription" : "把燃料转换成自由。",

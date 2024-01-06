@@ -7,6 +7,7 @@
 
   "description" : "一种由魔法与法术驱动的华丽灯笼 —— 但是坏了... 那它还有什么用？",
   "shortdescription" : "破损的华丽灯笼（永燃明焰版）",
+  "plasmoidDescription": "坏-掉-的-永-燃-灯-笼。它-还-没-坏-的-时-候-超-级-亮...",
   "race" : "plasmoid",
 
   "inventoryIcon" : "continualflamelanternBrokenicon.png",

@@ -5,8 +5,8 @@
   "rarity" : "Common",
   
   "category" : "decorative",
-  "description" : "储物柜。存点东西，为什么不呢？",
-  "shortdescription" : "船舰储物柜",
+  "description" : "储物柜。存点东西，为什么不呢？因为现在坏了。",
+  "shortdescription" : "损坏的船舰储物柜",
   "race" : "plasmoid",
   "lightColor" : [61, 88, 102],
   "apexDescription" : "船舰的存储系统。现在不工作。",
