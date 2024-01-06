@@ -2,11 +2,11 @@
 	{
 		"op" : "replace",
 		"path" : "/charCreationTooltip/description",
-		"value" : "Plasmoid, a race that travelling througth the Multiverse. They looks like a moid of shapeless liquid, but they disguised themselves as humanoids.\n\n ^orange;Diet^reset;：All\n\n^orange;Racial Trait^reset;:\n +^green;10^reset;%Moving Speed, Breath Time+^green;1500^reset;,\n ^green;Resist^reset;: +^green;30^reset;%Radioactive,+^green;30^reset;%Poison\n ^green;Darkvision^reset;\n HP x^red;0.85^reset;\n Tech：Amorphous（Can slowly pass through spaces that only 1-block-height.）\n\n^orange;Environment^reset;:\n ^green;Space,Moon,Asteroid,Atmosphere^reset;：Energy x^green;1.4^reset;, Energy Recovering Rate x^green;1.5^reset;, -^green;50^reset;%Hungry Rate"
+		"value" : "Plasmoid, a race that travels though the galaxies. They seem to be fluid without fixed appearance, and yet they disguise themselves as humanoids."
 	},
 	{
 		"op" : "replace",
 		"path" : "/charGenTextLabels",
-		"value" : [ "Eye Color", "Hair/Disguise", "-", "-", "Dyed Skin", "Hair Color", "-", "-", "Plasmoid", "Personality" ]
+		"value" : [ "Eye Color", "Hair/Disguise Type", "-", "-", "Fluid", "Hair Color", "-", "-", "Plasmoid", "Personality" ]
 	}
 ]

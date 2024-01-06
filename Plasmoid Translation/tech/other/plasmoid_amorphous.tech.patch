@@ -2,7 +2,7 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "Amorphous ^green;[F]^reset;! Makes you pass througth 1-block-height spaces!"
+		"value" : "Amorphous with ^green;[F]^reset;! Allows you to pass througth 1 block height gaps!"
 	},
 	{
 		"op" : "replace",

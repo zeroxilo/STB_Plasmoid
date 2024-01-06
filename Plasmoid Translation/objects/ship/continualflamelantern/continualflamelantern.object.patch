@@ -2,11 +2,11 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "An Ornate Lantern by lightened by Magics and Spells! They are bright much than their original version, but they are not Ornate any-any-any more!"
+		"value" : "An ornate lantern lit by magics and spells! Comparing to the ordinary ones, they are so much brighter and won't flicker... But those ain't so ornate any more!"
 	},
 	{
 		"op" : "replace",
 		"path" : "/shortdescription",
-		"value" : "Ornate Lantern(Ver. Continual Flame)"
+		"value" : "Ornate Lantern (Continual Flame Ver.)"
 	}
 ]

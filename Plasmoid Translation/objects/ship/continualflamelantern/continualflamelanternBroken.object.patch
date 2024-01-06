@@ -2,11 +2,11 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "An Ornate Lantern by lightened by Magics and Spells... Wait, it's broken. So... What could it do now?"
+		"value" : "An ornate lantern lit by magics and spells, but broken. What's its use now?"
 	},
 	{
 		"op" : "replace",
 		"path" : "/shortdescription",
-		"value" : "Ornate Lantern(Ver. Continual Flame, but Broken)"
+		"value" : "Broken Ornate Lantern (Continual Flame Ver.)"
 	}
 ]
