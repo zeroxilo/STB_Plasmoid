@@ -3,19 +3,7 @@
     "charCreationTooltip" : {
     "title" : "plasmoid",
     "subTitle" : "Slimy person.",
-    "description" : "流浆体，一种游历于星空之中的奇怪种族，它们似乎是一团无定型的流体，却又有着人形一样的外观。
-
- ^orange;食性^reset;：全食性
-
-^orange;种族特性^reset;:
- +^green;10^reset;%移动速度, 呼吸时限+^green;1500^reset;,
- ^green;抗性^reset;: +^green;40^reset;%辐射抗性,+^green;40^reset;%毒素抗性
- ^green;夜视^reset;
- HP x^red;0.85^reset;
- 科技：无定型（可以缓慢穿过只有1格高的空间）
-
-^orange;环境^reset;:
- ^green;太空,小行星带,大气层,月球^reset;：能量 x^green;1.4^reset;, 能量恢复速率 x^green;1.5^reset;, -^green;50^reset;%饥饿速率"
+    "description" : "流浆体，一种游历于星空之中的奇怪种族，它们似乎是一团无定型的流体，却又有着人形一样的外观。"
   },
   "nameGen" : [ "/species/plasmoidnamegen.config:names", "/species/plasmoidnamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/plasmoidhurt_male1.ogg", "/sfx/humanoid/plasmoidhurt_female1.ogg" ],
@@ -36,9 +24,9 @@
       "name" : "male",
       "image" : "/interface/title/plasmoidmaleico.png",
       "characterImage" : "/interface/title/plasmoidmale.png",
-      "hair" : [ "none" ],
-      "shirt" : [ "none" ],
-      "pants" : [ "none" ],
+      "hair" : [ "NOHAIR" ],
+      "shirt" : [ "NOSHIRT" ],
+      "pants" : [ "NOPANTS" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -49,8 +37,8 @@
       "image" : "/interface/title/plasmoidfemico.png",
       "characterImage" : "/interface/title/plasmoidfemale.png",
       "hair" : [ "star1", "star2", "star3", "star4", "star5", "star6", "star7", "star8", "star9", "star10", "star11", "star12", "star13", "star14", "star15", "star16", "star17", "star18", "star19", "star20", "star21", "star22", "star23" ],
-      "shirt" : [ "none" ],
-      "pants" : [ "none" ],
+      "shirt" : [ "NOSHIRT" ],
+      "pants" : [ "NOPANTS" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",

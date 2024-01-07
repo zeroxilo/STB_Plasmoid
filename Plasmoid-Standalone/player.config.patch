@@ -3,10 +3,5 @@
         "op" : "add",
         "path" : "/defaultCodexes/plasmoid",
         "value" : [ "protectorate1", "protectorate2", "plasmoiddiary" ]
-    },
-    {
-        "op": "add",
-        "path": "/companionsConfig/scripts/-",
-        "value": "/scripts/plasmoid/plasmoidoverride.lua"
     }
 ]
